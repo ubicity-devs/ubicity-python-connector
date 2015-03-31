@@ -1,10 +1,11 @@
 # ignore all bin directories
 bin/
 
+# ignore all target directories
+target/
+
 # ignore all files ending with ~
 *~ 
 
 # ignore all hidden files
 .* 
-*.pyc
-/target/
